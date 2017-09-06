@@ -34,7 +34,7 @@ FileAssociationInfo fai = new FileAssociationInfo(".piou");
          fai.Create("Piou");
 
          //Specify MIME type (optional)
-         fai.ContentType = "application/myfile";
+         fai.ContentType = "piou/PiouClient";
 
          //Programs automatically displayed in open with list
          fai.OpenWithList = new string[]
@@ -53,7 +53,7 @@ FileAssociationInfo fai = new FileAssociationInfo(".piou");
               //Verb name
               "Open",
               //Path and arguments to use
-              @"C:\SomePath\MyApp.exe %1"
+              @"C:\piou\PiouClient\PiouClient\bin\debug\PiouClient.exe %1"
               )
             );
 
