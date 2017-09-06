@@ -1,0 +1,9 @@
+C:\Users\pc\Desktop\piou\PiouClient\PiouClient\bin\Debug\PiouClient.exe.config
+C:\Users\pc\Desktop\piou\PiouClient\PiouClient\bin\Debug\PiouClient.exe
+C:\Users\pc\Desktop\piou\PiouClient\PiouClient\bin\Debug\PiouClient.pdb
+C:\Users\pc\Desktop\piou\PiouClient\PiouClient\obj\Debug\PiouClient.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\piou\PiouClient\PiouClient\obj\Debug\PiouClient.Form1.resources
+C:\Users\pc\Desktop\piou\PiouClient\PiouClient\obj\Debug\PiouClient.Properties.Resources.resources
+C:\Users\pc\Desktop\piou\PiouClient\PiouClient\obj\Debug\PiouClient.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\piou\PiouClient\PiouClient\obj\Debug\PiouClient.exe
+C:\Users\pc\Desktop\piou\PiouClient\PiouClient\obj\Debug\PiouClient.pdb
