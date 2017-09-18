@@ -34,7 +34,7 @@ FileAssociationInfo fai = new FileAssociationInfo(".piou");
          fai.Create("Piou");
 
          //Specify MIME type (optional)
-         fai.ContentType = "piou/PiouClient";
+         fai.ContentType = "script/PiouClient.Script";
 
          //Programs automatically displayed in open with list
          fai.OpenWithList = new string[]
@@ -46,7 +46,7 @@ FileAssociationInfo fai = new FileAssociationInfo(".piou");
          pai.Create
          (
          //Description of program/file type
-         "PIOU file"
+         "PIOUScript"
 
          new ProgramVerb
               (
@@ -58,5 +58,5 @@ FileAssociationInfo fai = new FileAssociationInfo(".piou");
             );
 
          //optional
-         pai.DefaultIcon = new ProgramIcon(@"C:\PiouClient\twiiter-bird.ico
+         pai.DefaultIcon = new ProgramIcon(@"C:\PiouClient\twiiter-bird.ico")
        }
