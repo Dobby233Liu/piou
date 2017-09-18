@@ -1,7 +1,7 @@
 @echo off
 echo Bye ! Piou will now uninstall ! :(
 pause
-
+cls
 del piou-welcome.png
 
 del twitter-bird.ico
