@@ -5,7 +5,7 @@ pause
 del piou-welcome.png
 
 del twitter-bird.ico
-del bin\
+
 
 del *.exe
 
